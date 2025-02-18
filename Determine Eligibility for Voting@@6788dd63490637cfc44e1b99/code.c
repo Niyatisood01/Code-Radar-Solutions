@@ -8,5 +8,5 @@ int mai()
     }else{
         print("Not Eligible");
     }
-    
+    return 0;
 }
