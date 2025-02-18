@@ -8,5 +8,5 @@ int mai()
     }else{
         printf("Not Eligible");
     }
-    
+    return 0;
 }
