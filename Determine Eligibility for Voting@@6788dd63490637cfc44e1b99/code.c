@@ -6,6 +6,7 @@ int mai()
     if(age>=18){
         printf("Eligible");
     }else{
-        print("Not Eligible")
+        print("Not Eligible");
     }
+    
 }
