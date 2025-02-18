@@ -1,5 +1,5 @@
 #include <stdio.h>
-int mai()
+int main()
 {
     int age;
     scanf("%d",age);
@@ -8,5 +8,5 @@ int mai()
     }else{
         printf("Not Eligible");
     }
-    return 0;
+    
 }
