@@ -3,13 +3,13 @@ int main(){
     int marks;
     scanf("%d",&marks);
     if(marks>=90){
-        print("A");
+        printf("A");
     }else if(marks<=90 && marks<=80){
-    print("B");
+    printf("B");
     }else if(marks<=80 && marks<=70){
-        print("C");
+        printf("C");
     }else if(marks<=70 && marks<=60){
-        print("D");
+        printf("D");
     }
     return 0;
 }
