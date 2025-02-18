@@ -11,4 +11,5 @@ int main(){
     }else if(marks<=70 && marks<=60){
         print("D");
     }
+    return 0;
 }
