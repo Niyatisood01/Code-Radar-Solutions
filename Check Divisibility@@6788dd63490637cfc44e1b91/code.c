@@ -6,7 +6,7 @@ int main(){
     {
         printf("Divisible");
     }else{
-        printf("undivisible");
+        printf("Not Divisible");
     }
     return 0;
 }
