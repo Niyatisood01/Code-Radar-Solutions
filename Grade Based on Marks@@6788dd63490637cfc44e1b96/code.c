@@ -13,7 +13,7 @@ int main(){
     }else if(marks<=60 && marks>=50){
         prinf("E");
     }else if(marks<=50 && marks>=40){
-        print("F");
+        printf("F");
     }
     return 0;
 }
