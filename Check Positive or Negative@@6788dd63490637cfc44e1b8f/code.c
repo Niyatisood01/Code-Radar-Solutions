@@ -13,4 +13,5 @@ int main()
     else{
         printf("number is zero");
     }
+    return 0;
 }
