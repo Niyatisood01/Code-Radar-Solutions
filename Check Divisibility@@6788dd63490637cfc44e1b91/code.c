@@ -8,4 +8,5 @@ int main(){
     }else{
         printf("undivisible");
     }
+    return 0;
 }
