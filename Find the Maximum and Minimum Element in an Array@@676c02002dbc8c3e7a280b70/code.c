@@ -11,12 +11,12 @@ int main()
     int num2 = arr[0];
     for (int i=0;i<n;i++){
         if(arr[i]>num){
-        num=arr[i]
+        num=arr[i];
     }
     }
     for (int i =0;i<n;i++){
         if (arr[i]<num2){
-            num2 = arr[i]
+            num2 = arr[i];
         }
     }
     printf("%d %d",num2,num);
